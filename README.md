@@ -132,7 +132,7 @@ PDF와 영상은 그 시절 만든 자료입니다. 타 교과와는 달리 내�
 - ##### 한 점 A, 무게중심 G, 반직선 GB 반직선, 반직선 GC 가 주어졌을 때 삼각형을 작도하여라.(Construct a triangle when given a point A, center of gravity G, ray GB, and ray GC.) 
   - AlgeoMath : http://me2.do/xWM1jshx 
 - ##### 무게중심에서 각 꼭짓점까지 이르는 거리가 주어 졌을 때 삼각형 작도하기(Constructing a triangle given the three distances from entroid to each vertex) 
-  - AlgeoMath : https://goo.gl/5ow2Hb
+  - AlgeoMath : http://me2.do/F10Is1fF 
   
 >이와 같은 자료를 만드는 방법에 대한 강의록 : https://goo.gl/TBQN1q 입니다. 1시간정도 따라 하시면 쉽게 만드실 수 있을 것 입니다.
 
